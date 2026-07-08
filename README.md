@@ -1,2 +1,2 @@
 # gitaqueria
-Part of an intro to git activity... no further context provided... ¯\_(ツ)_/¯
+Part of an intro to git activity... no further context provided... ¯\\\_(ツ)\_/¯
