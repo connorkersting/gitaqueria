@@ -4,3 +4,4 @@ taco plate
 - salsa verde
 - sour cream
 - cilantro
+- guacamole
